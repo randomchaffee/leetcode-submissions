@@ -30,4 +30,8 @@
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/randomchaffee/leetcode-submissions/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
