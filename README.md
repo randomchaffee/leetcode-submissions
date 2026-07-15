@@ -34,4 +34,12 @@
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/randomchaffee/leetcode-submissions/tree/master/1212-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/randomchaffee/leetcode-submissions/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/randomchaffee/leetcode-submissions/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
