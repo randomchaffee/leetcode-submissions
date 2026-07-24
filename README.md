@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/randomchaffee/leetcode-submissions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/randomchaffee/leetcode-submissions/tree/master/3995-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/randomchaffee/leetcode-submissions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
