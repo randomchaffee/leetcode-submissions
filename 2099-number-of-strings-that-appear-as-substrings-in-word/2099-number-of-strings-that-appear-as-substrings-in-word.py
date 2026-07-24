@@ -1,5 +1,7 @@
 class Solution:
     def numOfStrings(self, patterns: List[str], word: str) -> int:
+        # July 25, 2026 01:51
+        
         # keep track of the count of valid patterns within the list
         count = 0
         # we loop through each substring in the list
@@ -10,7 +12,5 @@ class Solution:
             # to the next value in the List
             if substring in word:
                 count += 1
-            else:
-                continue
         
         return count
