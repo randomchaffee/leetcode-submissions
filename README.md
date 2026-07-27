@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/randomchaffee/leetcode-submissions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/randomchaffee/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/randomchaffee/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/randomchaffee/leetcode-submissions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
