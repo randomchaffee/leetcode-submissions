@@ -1,22 +1,20 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        # july 27, 2026 21:53
+        # july 27, 2026 21:53\
         
-        # first we create a variable to store the maximum we find
-        # as the nested loop progresses
-        maximum = 0
-        for i in range(len(nums)):
-            for j in range(len(nums)):
-                # we skip if i and j are of the same index value
-                if i == j:
-                    continue
+        # we create two variables where we store the two largest
+        # values in nums that we find
+        largest_1 = 0
+        largest_2 = 0
 
-                # we do the operation
-                curr = (nums[i] - 1) * (nums[j] - 1)
-                
-                # we check if the current calculation results in
-                # a larger product than the current maximum
-                if curr > maximum:
-                    maximum = curr
-        
-        return maximum
+        # we loop through nums to find the two largest values
+        for num in nums:
+            if num > largest_1:
+                largest_2 = largest_1
+                largest_1 = num
+            elif num > largest_2:
+                largest_2 = num
+            
+        # finally, we return the maximum value minus one
+        # of the two products in the array
+        return ((largest_1 - 1) * (largest_2 - 1))
