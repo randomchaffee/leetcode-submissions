@@ -22,17 +22,20 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/randomchaffee/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/randomchaffee/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/randomchaffee/leetcode-submissions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/randomchaffee/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/randomchaffee/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/randomchaffee/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/randomchaffee/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
