@@ -23,6 +23,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/randomchaffee/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/randomchaffee/leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/randomchaffee/leetcode-submissions/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/randomchaffee/leetcode-submissions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -31,12 +32,14 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/randomchaffee/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/randomchaffee/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/randomchaffee/leetcode-submissions/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/randomchaffee/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/randomchaffee/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/randomchaffee/leetcode-submissions/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
@@ -46,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/randomchaffee/leetcode-submissions/tree/master/0268-missing-number) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/randomchaffee/leetcode-submissions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -72,4 +76,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/randomchaffee/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/randomchaffee/leetcode-submissions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/randomchaffee/leetcode-submissions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
