@@ -33,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/randomchaffee/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/randomchaffee/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/randomchaffee/leetcode-submissions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/randomchaffee/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/randomchaffee/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/randomchaffee/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/randomchaffee/leetcode-submissions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/randomchaffee/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/randomchaffee/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/randomchaffee/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/randomchaffee/leetcode-submissions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Heap (Priority Queue)
 |  |
@@ -84,4 +87,5 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/randomchaffee/leetcode-submissions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/randomchaffee/leetcode-submissions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
