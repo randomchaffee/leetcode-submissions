@@ -1,27 +1,19 @@
-# Aug 06, 2026, 07:19
-# I'll make a hashmap approach
+# Aug 06, 2026, 07:44
+# I'll make a string value approach (typecasting)
 
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        # we create a hashmap (dict) to map out the values in s
-        initial = {}
+        s_value = 0
+        t_value = 0
+        # get the sum of the ASCII values of s
         for char in s:
-            # reminder for self: get(key, default_value) NOT THE CURRENT VALUE
-            initial[char] = initial.get(char, 0) + 1
+            s_value += ord(char)
         
-        # then we iterate through t, and subtract 1 in the value of the keys
-        # in initial
+        # get the sum of the ASCII values of t
         for char in t:
-            # if we encounter the added letter in t and it is not in the map, 
-            # we mark it as -1
-            initial[char] = initial.get(char, -1) - 1
+            t_value += ord(char)
         
-        added_letter = ""
-        for key in initial:
-            # if a key is NOT 0, we found the added_letter
-            if initial[key] != 0:
-                added_letter += key
-                
-        return added_letter
-
-        
+        # the difference of the two should return the value of 
+        # the added_letter
+        # now we just need to typecast it back into a char
+        return chr(t_value - s_value)
