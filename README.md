@@ -51,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/randomchaffee/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/randomchaffee/leetcode-submissions/tree/master/0268-missing-number) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/randomchaffee/leetcode-submissions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -78,6 +79,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/randomchaffee/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/randomchaffee/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
@@ -88,4 +90,8 @@
 | ------- |
 | [0268-missing-number](https://github.com/randomchaffee/leetcode-submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/randomchaffee/leetcode-submissions/tree/master/0389-find-the-difference) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/randomchaffee/leetcode-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
