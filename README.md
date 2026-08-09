@@ -5,10 +5,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0100-same-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/randomchaffee/leetcode-submissions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0100-same-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/randomchaffee/leetcode-submissions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -104,4 +106,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/randomchaffee/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
