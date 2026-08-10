@@ -6,11 +6,13 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/randomchaffee/leetcode-submissions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/randomchaffee/leetcode-submissions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -110,8 +112,10 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
