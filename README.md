@@ -66,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/randomchaffee/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/randomchaffee/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/randomchaffee/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/randomchaffee/leetcode-submissions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -103,6 +104,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/randomchaffee/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/randomchaffee/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
