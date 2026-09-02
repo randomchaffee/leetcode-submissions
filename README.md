@@ -68,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randomchaffee/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/randomchaffee/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/randomchaffee/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/randomchaffee/leetcode-submissions/tree/master/0389-find-the-difference) |
@@ -108,6 +109,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randomchaffee/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/randomchaffee/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/randomchaffee/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
@@ -124,4 +126,20 @@
 | ------- |
 | [0100-same-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randomchaffee/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randomchaffee/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## KnuthâMorrisâPratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randomchaffee/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## BoyerâMoore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randomchaffee/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
