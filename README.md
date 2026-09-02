@@ -31,6 +31,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/randomchaffee/leetcode-submissions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/randomchaffee/leetcode-submissions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [4256-construct-uniform-parity-array-i](https://github.com/randomchaffee/leetcode-submissions/tree/master/4256-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0070-climbing-stairs](https://github.com/randomchaffee/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/randomchaffee/leetcode-submissions/tree/master/0268-missing-number) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/randomchaffee/leetcode-submissions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4256-construct-uniform-parity-array-i](https://github.com/randomchaffee/leetcode-submissions/tree/master/4256-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
