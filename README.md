@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/randomchaffee/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/randomchaffee/leetcode-submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/randomchaffee/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/randomchaffee/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -138,11 +139,11 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randomchaffee/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
+## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randomchaffee/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃ¢ÂÂMoore String-Search Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randomchaffee/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
