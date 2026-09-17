@@ -5,6 +5,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/randomchaffee/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
@@ -125,6 +126,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/randomchaffee/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -132,6 +134,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/randomchaffee/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -145,11 +148,11 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randomchaffee/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randomchaffee/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/randomchaffee/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/randomchaffee/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/randomchaffee/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
