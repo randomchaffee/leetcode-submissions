@@ -16,7 +16,7 @@ class Solution:
                 counts[num] = 1
             # check if it reached the majority threshold
             # if it has, return the value
-            if counts[num] > sizeOfArray / 2:
+            if counts[num] > sizeOfArray // 2: # use floor division 
                 return num
             # if it hasnt yet, just increment it
             counts[num] += 1
